@@ -23,3 +23,14 @@ cp phone/* lm/test/000015/rgb/
 ```
 
 * Our codes coming soon!
+
+## Citation
+if you find our work useful in your research, please consider citing:
+```
+@article{zhang2022adversarial,
+  title={Adversarial samples for deep monocular 6D object pose estimation},
+  author={Zhang, Jinlai and Li, Weiming and Liang, Shuang and Wang, Hao and Zhu, Jihong},
+  journal={arXiv preprint arXiv:2203.00302},
+  year={2022}
+}
+```
